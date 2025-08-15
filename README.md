@@ -1,3 +1,5 @@
 # Location Logger - made by Chat-GPT5 -
 ## Prompts
 >iPhoneの画面上のボタンをタップすると、その時点での位置情報を記録するアプリを作りたい。 記録するデータは、タップした時刻と位置情報。 データは一覧できるようにし、データセットそれぞれについて、あとからメモをつけられるとなお良い。 取得したデータ一覧は、 CSV形式で書き出せるようにしたい。
+## GitHub Pages
+https://kadoyan.github.io/LocationLogger/
